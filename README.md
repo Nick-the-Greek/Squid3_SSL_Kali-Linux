@@ -65,7 +65,8 @@ The Latest Version
 ==================
 
   Details of the latest version can be found on the Kali forums and here at github :
-  https://forums.kali.org/showthread.php?23036-SSL-Interception-with-Squid3-%28MITM%29
+  <a href="  https://forums.kali.org/showthread.php?23036-SSL-Interception-with-Squid3-%28MITM%29">SSL Interception with Squid3/</a>
+
 
 
 Documentation
@@ -80,18 +81,15 @@ Licensing
 
 References
 =========
-
-[URL=https://github.com/hkerem/squid3-ssl]hkerem's squid3-ssl[/URL]
-[URL=http://wiki.squid-cache.org/Features/DynamicSslCert]Dynamic SSL Certificate Generation[/URL]
-[URL=http://wiki.squid-cache.org/Features/SslBump]Squid-in-the-middle SSL Bump[/URL]
-[URL=http://wiki.squid-cache.org/Features/BumpSslServerFirst]SslBump using Bump-Server-First method[/URL]
-[URL=http://wiki.squid-cache.org/Features/MimicSslServerCert]Mimic original SSL server certificate when bumping traffic[/URL]
+* <a href="https://github.com/hkerem/squid3-ssl">hkerem's squid3-ssl/</a>
+* <a href="http://wiki.squid-cache.org/Features/DynamicSslCert">Dynamic SSL Certificate Generation/</a>
+* <a href="http://wiki.squid-cache.org/Features/SslBump">Squid-in-the-middle SSL Bump/</a>
+* <a href="http://wiki.squid-cache.org/Features/BumpSslServerFirst">SslBump using Bump-Server-First method/</a>
+* <a href="http://wiki.squid-cache.org/Features/MimicSslServerCert">Mimic original SSL server certificate when bumping traffic/</a>
 
 Contacts
 ========
 
-  * If you want to be informed about new code releases, please visit :
-  https://forums.kali.org/showthread.php?23028-Aerial-Multi-mode-wireless-LAN-Based-on-a-Software-Access-point
+You can contact me at:
 
-  * You can contact me at :
-  https://forums.kali.org/member.php?24689-Nick_the_Greek
+<a href="https://forums.kali.org/member.php?24689-Nick_the_Greek">Nick_the_Greek Kali Forums/</a>
