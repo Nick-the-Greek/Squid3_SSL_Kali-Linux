@@ -1,0 +1,42 @@
+Format: 1.8
+Date: Mon, 21 Jul 2014 14:07:24 +0000
+Source: squid-langpack
+Binary: squid-langpack
+Architecture: source all
+Version: 20140506-1.1Kali1
+Distribution: wheezy
+Urgency: low
+Maintainer: Luigi Gangitano <luigi@debian.org>
+Changed-By: Nick_the_Greek <hidden>
+Description: 
+ squid-langpack - Localized error pages for Squid
+Changes: 
+ squid-langpack (20140506-1.1Kali1) wheezy; urgency=low
+ .
+   * New upstream release
+   * Upgraded to 20140506
+   * Added missing languages
+     - af Afrikaans
+     - oc Occitan
+     - sl Slovenian
+     - sr-cyrl Serbian (Cyrillic)
+     - zh-cn renamed to zh-hans (Simplify_Chinese)
+     - zh-tw rename to zh-hant(Traditional_Chinese)
+   * debian/langpack.install: Added/fixed missing languages
+   * debian/links: Added/fixed missing languages
+   * debian/source/format: Added missing format
+Checksums-Sha1: 
+ 66f9e9add88056b5d9277c37e555da3ee6e05397 896 squid-langpack_20140506-1.1Kali1.dsc
+ 0de65c4ea7834f40e54c77e81a89b48a3eef807a 249001 squid-langpack_20140506.orig.tar.gz
+ 11068f04e08ad566e76a053423733229744bf2a9 5496 squid-langpack_20140506-1.1Kali1.diff.gz
+ 9048e03144ac433d5c83c9e0a09264e3ee0f5983 278606 squid-langpack_20140506-1.1Kali1_all.deb
+Checksums-Sha256: 
+ 80fe142d2432b451fe0f2f1fd04a41b14b1828f47bc30bb19a4f536792a35d46 896 squid-langpack_20140506-1.1Kali1.dsc
+ 0473e39d6fec28b54645312778e2ee48b64abe14c6229b90515df70dfda3a8c7 249001 squid-langpack_20140506.orig.tar.gz
+ fbc48b9f9d9bb738f60a9eedad8dea954ee8b762e7c61f8df0738a60fe6d703f 5496 squid-langpack_20140506-1.1Kali1.diff.gz
+ 5041292d8873d90f5153bf786d58dd838ae8f82f00fe6b2b8f266b794151aca5 278606 squid-langpack_20140506-1.1Kali1_all.deb
+Files: 
+ e608ae5dbbb9b1f8ba14672d2389f697 896 localization optional squid-langpack_20140506-1.1Kali1.dsc
+ 7494c20341c3bab99e7c0436758fa546 249001 localization optional squid-langpack_20140506.orig.tar.gz
+ bccee3ef88dda878cdb0f844b627a0c9 5496 localization optional squid-langpack_20140506-1.1Kali1.diff.gz
+ 9f1a3f1dbfea8a310864c17d45474354 278606 localization optional squid-langpack_20140506-1.1Kali1_all.deb

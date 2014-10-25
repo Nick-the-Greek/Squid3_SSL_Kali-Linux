@@ -1,0 +1,45 @@
+Format: 1.8
+Date: Fri, 18 Jul 2014 20:04:56 +0000
+Source: squid3
+Binary: squid3 squid3-dbg squid3-common squidclient squid-cgi
+Architecture: source all amd64
+Version: 3.3.8-1.1Kali1
+Distribution: wheezy
+Urgency: low
+Maintainer: Luigi Gangitano <luigi@debian.org>
+Changed-By: Nick_the_Greek <hidden>
+Description: 
+ squid-cgi  - Full featured Web Proxy cache (HTTP proxy) - control CGI
+ squid3     - Full featured Web Proxy cache (HTTP proxy)
+ squid3-common - Full featured Web Proxy cache (HTTP proxy) - common files
+ squid3-dbg - Full featured Web Proxy cache (HTTP proxy) - Debug symbols
+ squidclient - Full featured Web Proxy cache (HTTP proxy) - control utility
+Changes: 
+ squid3 (3.3.8-1.1Kali1) wheezy; urgency=low
+ .
+   * Feature: SSL Bumping
+   * Feature: Dynamic SSL Certificate Generation.
+Checksums-Sha1: 
+ 3f53bc89cab61cae0846c352fbab4c3bd58357ce 979 squid3_3.3.8-1.1Kali1.dsc
+ 5a8e971133ec475fc9fad84ba234337960057a0d 9732392 squid3_3.3.8-1.1Kali1.tar.gz
+ 5971e81daf4e6a903400bf7530fde95916e3c53b 99380 squid3-common_3.3.8-1.1Kali1_all.deb
+ 1296be635b29f1df3ab34b647f17d14423e92d48 2861992 squid3_3.3.8-1.1Kali1_amd64.deb
+ 19eb560791f8e85cd18f873ea0f1ae0628737bd4 15471298 squid3-dbg_3.3.8-1.1Kali1_amd64.deb
+ 89f5725cf7a12a4d7b2e688117651cca392dd36e 99432 squidclient_3.3.8-1.1Kali1_amd64.deb
+ 6e301ecc9b2d5e598d631f5f5fdcd4051d85a39b 99436 squid-cgi_3.3.8-1.1Kali1_amd64.deb
+Checksums-Sha256: 
+ 073e074132009cdd2678d80ab5920466d4db715395cae2d1511c9bb8b6b88e06 979 squid3_3.3.8-1.1Kali1.dsc
+ 689ae43c015b9db3d10ee788f15a8531899e88789083a757230194e0d60dad5c 9732392 squid3_3.3.8-1.1Kali1.tar.gz
+ 068832181285ded6a95d11a657d789dd614d5a1bb6fdd1416beff2dc2e5d08d5 99380 squid3-common_3.3.8-1.1Kali1_all.deb
+ 33577fe45f184c4bab2e4a985694720aab1afbf8c996d9aeb487cce7872893fc 2861992 squid3_3.3.8-1.1Kali1_amd64.deb
+ 7727b42887a7c8c3ad5de45f6e0e2a31f3ab667e75e642c268b6227828f7ff1a 15471298 squid3-dbg_3.3.8-1.1Kali1_amd64.deb
+ 8bb3a35329cfcf760aad7661afde41cbe25914a0d1b72baf087fbbe562724a35 99432 squidclient_3.3.8-1.1Kali1_amd64.deb
+ 79f5a33601fe7e794931dbb576e186f81dfde6e7b866ff0901b15e6cf2698503 99436 squid-cgi_3.3.8-1.1Kali1_amd64.deb
+Files: 
+ 96484321aff434ca28c7aba906a2280e 979 web optional squid3_3.3.8-1.1Kali1.dsc
+ 68c50d5049a5e8e6152b3f1e5cd914c7 9732392 web optional squid3_3.3.8-1.1Kali1.tar.gz
+ 9b9d39360780bdb32199b543091c8916 99380 web optional squid3-common_3.3.8-1.1Kali1_all.deb
+ cfe6c3a05ef8f574015c68653bd4b2f7 2861992 web optional squid3_3.3.8-1.1Kali1_amd64.deb
+ 757cfac4232f7ec3666d1ef368679128 15471298 debug extra squid3-dbg_3.3.8-1.1Kali1_amd64.deb
+ 7fd90114140d7872e127fc45e63249cd 99432 web optional squidclient_3.3.8-1.1Kali1_amd64.deb
+ 6dbdbb1065fc43221bb737c1eedae4bc 99436 web optional squid-cgi_3.3.8-1.1Kali1_amd64.deb
