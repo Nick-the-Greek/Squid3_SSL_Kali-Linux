@@ -2,7 +2,7 @@
                        Squid3 v.3.3.8 - SSL enabled - Kali Linux - Sat 25 Oct 2014
 
 Based on:  hkerem's squid3-ssl
-------------------------------
+=
 
 Files:
 ====
@@ -38,16 +38,16 @@ Files:
 
 Installation
 ============
-Squid3 v.3.3.8 SSL is incompatible with any previous version of Squid3. So, if you have installed any version of Squid3 e.g. Kali offers Squid3 v.3.1.20 you must uninstall it first :
+Squid3 v.3.3.8 SSL is incompatible with any previous version of Squid3. So, if you have installed any version of Squid3 e.g. Kali offers Squid3 v.3.1.20 you must uninstall it first:
 
 apt-get --purge remove -y squid3 squid3-common squid-langpack
 
-For amd64 architecture (minimal installation) :
+For amd64 architecture (minimal installation):
 
 cd squid3_3.3.8-1.1Kali1_amd64
 dpkg -i squid3_3.3.8-1.1Kali1_amd64.deb squid3-common_3.3.8-1.1Kali1_all.deb squid-langpack_20140506-1.1Kali1_all.deb
 
-For i386 architecture (minimal installation) :
+For i386 architecture (minimal installation):
 
 cd squid3_3.3.8-1.1Kali1_i386
 dpkg -i squid3_3.3.8-1.1Kali1_i386.deb squid3-common_3.3.8-1.1Kali1_all.deb squid-langpack_20140506-1.1Kali1_all.deb
@@ -55,7 +55,7 @@ dpkg -i squid3_3.3.8-1.1Kali1_i386.deb squid3-common_3.3.8-1.1Kali1_all.deb squi
 Tested
 ======
 
-  - : Kali Linux
+  - Kali Linux
     - 1.0.6 (x32 / x64).
     - 1.0.7 (x32 / x64).
     - 1.0.8 (x32 / x64).
